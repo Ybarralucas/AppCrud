@@ -1,6 +1,6 @@
 # AppCrud
 
-https://i.postimg.cc/QtNZhYLQ/imgCRUD.png
+![AppCRUD](https://i.postimg.cc/QtNZhYLQ/imgCRUD.png)
 
 #Leguajes:
 PHP AJAX JQUERY PDO MVC.
