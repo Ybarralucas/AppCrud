@@ -3,6 +3,6 @@
 ![AppCRUD](https://i.postimg.cc/QtNZhYLQ/imgCRUD.png)
 
 
-PHP AJAX JQUERY PDO MVC.
+PHP JAVASCRIPT AJAX JQUERY PDO MVC.
 
 
